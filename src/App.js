@@ -23,6 +23,7 @@ function App() {
         <AccountSummary />
         <TransactionHistory />
         <AddTransaction />
+        
       </div>
     
     </GlobalProvider>
